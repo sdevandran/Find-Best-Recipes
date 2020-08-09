@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/frontendcoda/static/css/main.df117600.chunk.css",
+    "main.js": "/frontendcoda/static/js/main.4d466122.chunk.js",
+    "main.js.map": "/frontendcoda/static/js/main.4d466122.chunk.js.map",
+    "runtime-main.js": "/frontendcoda/static/js/runtime-main.ce888bd2.js",
+    "runtime-main.js.map": "/frontendcoda/static/js/runtime-main.ce888bd2.js.map",
+    "static/css/2.d9b573e2.chunk.css": "/frontendcoda/static/css/2.d9b573e2.chunk.css",
+    "static/js/2.bf83a05b.chunk.js": "/frontendcoda/static/js/2.bf83a05b.chunk.js",
+    "static/js/2.bf83a05b.chunk.js.map": "/frontendcoda/static/js/2.bf83a05b.chunk.js.map",
+    "index.html": "/frontendcoda/index.html",
+    "precache-manifest.6cced5c623016d3b3c5e23eed191d8bf.js": "/frontendcoda/precache-manifest.6cced5c623016d3b3c5e23eed191d8bf.js",
+    "service-worker.js": "/frontendcoda/service-worker.js",
+    "static/css/2.d9b573e2.chunk.css.map": "/frontendcoda/static/css/2.d9b573e2.chunk.css.map",
+    "static/css/main.df117600.chunk.css.map": "/frontendcoda/static/css/main.df117600.chunk.css.map",
+    "static/js/2.bf83a05b.chunk.js.LICENSE.txt": "/frontendcoda/static/js/2.bf83a05b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontendcoda/static/media/Metropolis-Regular.f7b5e589.otf",
+    "static/media/Img2.jpg": "/frontendcoda/static/media/Img2.32b67c72.jpg",
+    "static/media/font-awesome.min.css": "/frontendcoda/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/frontendcoda/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce888bd2.js",
+    "static/css/2.d9b573e2.chunk.css",
+    "static/js/2.bf83a05b.chunk.js",
+    "static/css/main.df117600.chunk.css",
+    "static/js/main.4d466122.chunk.js"
+  ]
+}
